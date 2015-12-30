@@ -1,5 +1,7 @@
 # Introduction
 
+[![Join the chat at https://gitter.im/duxiaofei283/OpenTLD](https://badges.gitter.im/duxiaofei283/OpenTLD.svg)](https://gitter.im/duxiaofei283/OpenTLD?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a C++ implementation of OpenTLD that was originally published in MATLAB by Zdenek Kalal. OpenTLD is used for tracking objects in video streams. What makes this algorithm outstanding is that it does not make use of any training data. This implementation is based solely on open source libraries, meaning that you do not need any commercial products to compile or run it.
 
 The easiest way to get started is to download the precompiled [binaries](https://github.com/gnebehay/OpenTLD/releases) that are available for Windows and Ubuntu 12.04.  
